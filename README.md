@@ -16,7 +16,7 @@
 
 Clone Repository
 ```bash
-1. git clone https://github.com/ngtruc2421/Ckc_robot_automation.git
+1. git clone https://github.com/ngtruc2421/Waverley-software-internal.git
 ```
 Install the dependencies:
 
